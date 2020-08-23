@@ -2,7 +2,7 @@
 
 **version 1.0.0**
 
-For week two of coding boot camp, I was tasked with building a responsive portfolio website. I began by wireframing my vision for my site on draw.io. The wireframe looked like this:
+For week two of coding boot camp, I was given the assignment of building a responsive portfolio website. I began by wireframing my vision for my site on draw.io. The wireframe looked like this:
 
 ![Image of top line of wireframe](https://github.com/joeybrown-ctrl/joeybrown-ctrl.github.io/blob/master/Assets/Images/wireframe-topline.png)
 
@@ -30,7 +30,7 @@ This page utilizes a navigation bar with working links, a jumbotron component, t
 
 ## Contact
 
-The Contact page (contact.html) utilizes one of Bootstrap 4's form components, as well as a button component. It has a fully functional navigation bar, a jumbotron component, the fixed footer utility with working media icons, and utilises the grid system.
+The Contact page (contact.html) utilizes one of Bootstrap 4's form components, as well as a button component. It has a fully functional navigation bar, a jumbotron component, the fixed footer utility with working media icons, and utilizes the grid system.
 
 ![Image of Contact page](https://github.com/joeybrown-ctrl/joeybrown-ctrl.github.io/blob/master/Assets/Images/contact.png)
 <br>
@@ -42,7 +42,7 @@ The Contact page (contact.html) utilizes one of Bootstrap 4's form components, a
 * [Bootstrap 4](https://getbootstrap.com/)
 * [Git Bash](https://git-scm.com/downloads)
 * [HTML 5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-* [Markdown](https://guides.github.com/features/mastering-markdown/) (for this lovely README.md)
+* [Markdown](https://guides.github.com/features/mastering-markdown/) 
 <br>
 
 ## Contributors
