@@ -2,7 +2,7 @@
 
 **version 1.0.0**
 
-[For deployed version, click me](https://joeybrown-ctrl.github.io/)
+[For deployed version, click me](https://joeybrown-ctrl.github.io/Password-Generator/)
 
 For week two of coding boot camp, I was given the assignment of building a responsive portfolio website. I began by wireframing my vision for my site on draw.io. The wireframe looked like this:
 
